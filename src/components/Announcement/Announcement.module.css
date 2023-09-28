@@ -2,7 +2,7 @@
   background-color: teal;
   color: white;
   height: 30px;
-
+  padding-left: 20px;
   display: flex;
   align-items: center;
 }
